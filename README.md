@@ -22,7 +22,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Quick References / Cheatsheets
 
-- [Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/jekyll.md)
+- [Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md)
 
 ## Articles
 
@@ -74,7 +74,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## WordPress Migration / Import / Export / Templates
 
 - [WordPress Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter) - [:octocat:](https://github.com/benbalter/wordpress-to-jekyll-exporter) - export your WordPress blog to jekyll with one click
-- [WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/wordpress.md)
+- [WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md)
 
 
 ## Markdown

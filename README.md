@@ -24,11 +24,6 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/jekyll.md)
 
-## WordPress Migration / Import / Export / Templates
-
-- [WordPress Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter) - [:octocat:](https://github.com/benbalter/wordpress-to-jekyll-exporter) - export your WordPress blog to jekyll with one click
-- [WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/wordpress.md)
-
 ## Articles
 
 SitePoint
@@ -40,6 +35,17 @@ SitePoint
 - [Zero to Jekyll in 20 minutes](http://www.sitepoint.com/zero-to-jekyll-in-20-minutes/) by Jonathan Jackson; Apr 2012
 
 
+## Plugins
+
+## Extensions
+
+## Templates
+
+- [jekyll-minimal-theme :octocat:](https://github.com/planetjekyll/jekyll-minimal-theme) - another minimal(istic) Jekyll static site generator theme, that is, a ready-to-fork template pack
+- [jekyll-bootstrap-theme :octocat:](https://github.com/planetjekyll/jekyll-bootstrap-theme) - jekyll theme w/ Bootstrap; uses the bootstrap sass/scss (source) version letting you change (override) all css variables
+
+
+
 ## GitHub Pages Headquarters (HQ)
 
 - [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
@@ -49,6 +55,11 @@ SitePoint
 
 - [octopress.org](http://octopress.org) - [:octocat:](https://github.com/octopress), [:gem:](https://rubygems.org/gems/octopress) - an obsessively designed toolkit for writing and deploying jekyll blogs
 
+
+## WordPress Migration / Import / Export / Templates
+
+- [WordPress Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter) - [:octocat:](https://github.com/benbalter/wordpress-to-jekyll-exporter) - export your WordPress blog to jekyll with one click
+- [WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/wordpress.md)
 
 
 ## Markdown

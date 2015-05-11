@@ -1,19 +1,44 @@
 # awesome-jekyll
+
 A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
+
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
+
+---
+
+[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/writekit/awesome-markdown). 
+
+---
+
+Contributions welcome. Anything missing? Send in a pull request. Thanks.
+
 
 
 ## Jekyll Headquarters (HQ)
+
+- [jekyll.rb](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - simple, blog-aware static site generator
+   - [News](http://jekyllrb.com/news) - what's news?
+   - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
 ## Articles
 
 
 
-## GitHub Pages
+## GitHub Pages Headquarters (HQ)
+
+- [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
 
 
 ## Octopress Headquarters (HQ)
 
+- [octopress.org](http://octopress.org) - [:octocat:](https://github.com/octopress), [:gem:](https://rubygems.org/gems/octopress) - an obsessively designed toolkit for writing and deploying jekyll blogs
+
+
+
+## Markdown
+
+- [Awesome Markdown :octocat:](https://github.com/writekit/awesome-markdown) - Yet another collection about all things Markdown
 
 ## Alternatives
 

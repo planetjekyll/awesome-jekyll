@@ -43,8 +43,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 **More**
 
-- tuts+ / [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; Oct 2011
-- Development Seed / [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Sep 2011
+- [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
+- [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
 
 ## Plugins
@@ -64,7 +64,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## GitHub Pages Headquarters (HQ)
 
 - [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
-
+    - [Versions](https://pages.github.com/versions) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
 
 ## Octopress Headquarters (HQ)
 

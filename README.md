@@ -26,13 +26,25 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Articles
 
-SitePoint
+**SitePoint**
 
 - [Jekyll on Rails](http://www.sitepoint.com/jekyll-rails/) by Jesse Herrick; Apr 2015
 - [Static Blogging Tool Face-Off: Middleman vs Jekyll](http://www.sitepoint.com/static-blogging-g-face-middleman-vs-jekyll/) by David Turnbull; Feb 2015
 - [Blogging: WordPress or Jekyll](http://www.sitepoint.com/blogging-wordpress-or-jekyll/) by Hugo Giraudel; Nov 2014
 - [Getting Started with Jekyll Collections](http://www.sitepoint.com/getting-started-jekyll-collections/) by Taylor Jones; Oct 2014
 - [Zero to Jekyll in 20 minutes](http://www.sitepoint.com/zero-to-jekyll-in-20-minutes/) by Jonathan Jackson; Apr 2012
+
+**Jekyll From Scratch Series** by Mike Greiling (PixelCog; Minneapolis, MN)
+
+- [Getting Started](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/); Jul 2013
+- [Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/); Jul 2013 
+- [Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/); Jul 2013
+- [pixelcog.com Site](http://pixelcog.com) - [:octocat:](https://github.com/pixelcog/pixelcog.github.io)
+
+**More**
+
+- tuts+ / [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; Oct 2011
+- Development Seed / [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Sep 2011
 
 
 ## Plugins

@@ -6,7 +6,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome Ruby events (meetups, conferences, camps, etc.) from around the world)? See the [Awesome Events List @ Planet Ruby](https://github.com/writekit/awesome-markdown). 
+[ANNOUNCEMENT] Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
 
 ---
 

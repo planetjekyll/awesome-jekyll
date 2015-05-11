@@ -39,6 +39,9 @@ SitePoint
 
 ## Extensions
 
+- [jekyll-planet gem :octocat:](https://github.com/feedreader/jekyll-planet), [:gem:](https://rubygems.org/gems/jekyll-planet) - add articles, blogs to your site via web feeds (and planet pluto) 
+
+
 ## Templates
 
 - [jekyll-minimal-theme :octocat:](https://github.com/planetjekyll/jekyll-minimal-theme) - another minimal(istic) Jekyll static site generator theme, that is, a ready-to-fork template pack

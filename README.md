@@ -51,6 +51,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
 
 
+## More Jekyll Bookmarks
+
+- [Jekyll Bookmarks @ The New Dynamic](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
+
 ## Plugins
 
 ## Extensions

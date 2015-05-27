@@ -46,6 +46,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
+**Angular.js**
+
+- [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
+
 
 ## Plugins
 

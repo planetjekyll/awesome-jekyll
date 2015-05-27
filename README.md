@@ -62,7 +62,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 - [jekyll-minimal-theme :octocat:](https://github.com/planetjekyll/jekyll-minimal-theme) - another minimal(istic) Jekyll static site generator theme, that is, a ready-to-fork template pack
 - [jekyll-bootstrap-theme :octocat:](https://github.com/planetjekyll/jekyll-bootstrap-theme) - jekyll theme w/ Bootstrap; uses the bootstrap sass/scss (source) version letting you change (override) all css variables
-- [carte-noire :octocat:](https://github.com/jacobtomlinson/carte-noire) - A simple responsive blogging theme. 
+- [carte-noire :octocat:](https://github.com/jacobtomlinson/carte-noire) - a simple responsive blogging theme 
 
 
 

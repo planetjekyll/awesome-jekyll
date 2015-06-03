@@ -54,7 +54,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## More Bookmarks
 
 - [Jekyll Bookmarks @ The New Dynamic](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
-
+- [Jekyll Now](https://github.com/barryclark/jekyll-now) by Barry Clark
 
 ## Plugins
 
@@ -68,7 +68,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [jekyll-minimal-theme :octocat:](https://github.com/planetjekyll/jekyll-minimal-theme) - another minimal(istic) Jekyll static site generator theme, that is, a ready-to-fork template pack
 - [jekyll-bootstrap-theme :octocat:](https://github.com/planetjekyll/jekyll-bootstrap-theme) - jekyll theme w/ Bootstrap; uses the bootstrap sass/scss (source) version letting you change (override) all css variables
 - [carte-noire :octocat:](https://github.com/jacobtomlinson/carte-noire) - a simple responsive blogging theme 
-
+- [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) - a Jekyll theme geared for beginners intended to work with GitHub Pages
 
 
 ## GitHub Pages Headquarters (HQ)

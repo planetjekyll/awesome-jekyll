@@ -87,7 +87,21 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## GitHub Pages Headquarters (HQ)
 
 - [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
-    - [Versions](https://pages.github.com/versions) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
+    - [Versions](https://pages.github.com/versions) - [JSON](https://pages.github.com/versions.json) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
+
+**Official Docu / Help Pages**
+
+- [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics)
+    - [Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages)
+    - and many more
+- [GitHub Pages Features](https://help.github.com/categories/github-pages-features)
+    - [Using Jekyll Plugins with GitHub Pages](https://help.github.com/articles/using-jekyll-plugins-with-github-pages)
+    - [Repository metadata on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages)
+    - and many more
+- [GitHub Pages Troubleshooting](https://help.github.com/categories/github-pages-troubleshooting)
+    - [Troubleshooting GitHub Pages build failures](https://help.github.com/articles/troubleshooting-github-pages-build-failures)
+    - and many more
+
 
 ## Octopress Headquarters (HQ)
 

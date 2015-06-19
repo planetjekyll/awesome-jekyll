@@ -26,6 +26,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## Articles
 
+**Jekyll Tips** - [:octocat:](https://github.com/CloudCannon/Jekyll-Tips)
+
+- [Getting Started Guide](http://jekyll.tips)
+- and many more
+
 **SitePoint**
 
 - [Jekyll on Rails](http://www.sitepoint.com/jekyll-rails/) by Jesse Herrick; Apr 2015
@@ -62,13 +67,19 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [jekyll-planet gem :octocat:](https://github.com/feedreader/jekyll-planet), [:gem:](https://rubygems.org/gems/jekyll-planet) - add articles, blogs to your site via web feeds (and planet pluto) 
 
 
-## Templates
+## Templates / Themes
 
 - [jekyll-minimal-theme :octocat:](https://github.com/planetjekyll/jekyll-minimal-theme) - another minimal(istic) Jekyll static site generator theme, that is, a ready-to-fork template pack
 - [jekyll-bootstrap-theme :octocat:](https://github.com/planetjekyll/jekyll-bootstrap-theme) - jekyll theme w/ Bootstrap; uses the bootstrap sass/scss (source) version letting you change (override) all css variables
 - [carte-noire :octocat:](https://github.com/jacobtomlinson/carte-noire) - a simple responsive blogging theme 
 - [Jekyll Now :octocat:](https://github.com/barryclark/jekyll-now) - ready-to-fork jekyll (GitHub Pages) setup by Barry Clark
 - [Beautiful Jekyll :octocat:](https://github.com/daattali/beautiful-jekyll) - a theme geared for beginners intended to work with GitHub Pages by Dean Attali
+- [More Themes @ Jekyll Tips](http://jekyll.tips/templates) - another jekyll theme directory
+- [More Themes @ Planet Jekyll](http://planetjekyll.github.io/themes) - [:octocat:](https://github.com/planetjekyll/themes) - jekyll theme of the month series
+
+## Snippets / Recipes
+
+- [Jekyll Snippets @ Planet Jekyll](http://planetjekyll.github.io/snippets) - [:octocat:](https://github.com/planetjekyll/snippets)
 
 
 ## GitHub Pages Headquarters (HQ)

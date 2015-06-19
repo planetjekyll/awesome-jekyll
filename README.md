@@ -38,13 +38,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [Blogging: WordPress or Jekyll](http://www.sitepoint.com/blogging-wordpress-or-jekyll/) by Hugo Giraudel; Nov 2014
 - [Getting Started with Jekyll Collections](http://www.sitepoint.com/getting-started-jekyll-collections/) by Taylor Jones; Oct 2014
 - [Zero to Jekyll in 20 minutes](http://www.sitepoint.com/zero-to-jekyll-in-20-minutes/) by Jonathan Jackson; Apr 2012
+- [More Jekyll Articles @ SitePoint](http://www.sitepoint.com/tag/jekyll)
 
 **Jekyll From Scratch Series** by Mike Greiling (PixelCog; Minneapolis, MN)
 
 - [Getting Started](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/); Jul 2013
 - [Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/); Jul 2013 
 - [Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/); Jul 2013
-- [pixelcog.com Site](http://pixelcog.com) - [:octocat:](https://github.com/pixelcog/pixelcog.github.io)
+- [PixelCog.com Site](http://pixelcog.com) - [:octocat:](https://github.com/pixelcog/pixelcog.github.io)
 
 **More**
 

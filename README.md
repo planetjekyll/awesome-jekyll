@@ -81,6 +81,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## Snippets / Recipes
 
 - [Jekyll Snippets @ Planet Jekyll](http://planetjekyll.github.io/snippets) - [:octocat:](https://github.com/planetjekyll/snippets)
+- [Jekyll Snippets Page @ Jekyll Tips](http://jekyll.tips/tutorials/snippets)
 
 
 ## GitHub Pages Headquarters (HQ)

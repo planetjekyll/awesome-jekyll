@@ -87,7 +87,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## GitHub Pages Headquarters (HQ)
 
 - [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
-    - [Versions](https://pages.github.com/versions) - [JSON](https://pages.github.com/versions.json) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
+    - [Versions](https://pages.github.com/versions) - [(.json)](https://pages.github.com/versions.json) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
 
 **Official Docu / Help Pages**
 

@@ -10,13 +10,13 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ---
 
-### __Contributions welcome. Anything missing? Send in a pull request. Thanks.__
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 
 ## Jekyll Headquarters (HQ)
 
-- [jekyll.rb](http://jekyllrb.com) - [:octocat:](https://github.com/jekyll), [:gem:](https://rubygems.org/gems/jekyll) - simple, blog-aware static site generator
+- **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll)) - simple, blog-aware static site generator
    - [News](http://jekyllrb.com/news) - what's news?
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
@@ -61,16 +61,15 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 - [Jekyll Bookmarks @ The New Dynamic](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
 
-## Plugins
-
-## Extensions
-
-- [jekyll-planet gem :octocat:](https://github.com/feedreader/jekyll-planet), [:gem:](https://rubygems.org/gems/jekyll-planet) - add articles, blogs to your site via web feeds (and planet pluto) 
-
 
 ## Themes / Templates
 
 See the [Dr. Jekyll's Themes Directory »](http://drjekyllthemes.github.io).
+
+
+## Plugins / Extensions
+
+- **jekyll-planet** (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto) 
 
 
 ## Snippets / Recipes
@@ -100,7 +99,7 @@ See the [Dr. Jekyll's Themes Directory »](http://drjekyllthemes.github.io).
 
 ## Octopress Headquarters (HQ)
 
-- [octopress.org](http://octopress.org) - [:octocat:](https://github.com/octopress), [:gem:](https://rubygems.org/gems/octopress) - an obsessively designed toolkit for writing and deploying jekyll blogs
+- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) - an obsessively designed toolkit for writing and deploying jekyll blogs
 
 
 ## WordPress Migration / Import / Export / Templates

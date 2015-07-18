@@ -64,7 +64,7 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 
 ## Themes / Templates
 
-See the [Dr. Jekyll's Themes Directory »](http://drjekyllthemes.github.io).
+See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.io).
 
 
 ## Plugins / Extensions

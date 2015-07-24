@@ -13,6 +13,8 @@ Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems pag
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
+NOTE: Follow along [@viennahtml](https://twitter.com/viennahtml) - Europe's first Jekyll (static site) user group - on Twitter for news about Jekyll 'n' friends (new themes, new plugins, new conferences 'n' meetups, etc.)
+
 
 ## Jekyll Headquarters (HQ)
 

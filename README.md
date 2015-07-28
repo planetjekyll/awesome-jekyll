@@ -81,7 +81,7 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 
 ## Tips / Tricks
 
-**Angular.js**
+**Articles**
 
 - [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
 
@@ -124,26 +124,29 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 
 ## Octopress Headquarters (HQ)
 
-- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) - an obsessively designed toolkit for writing and deploying jekyll blogs
+- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) - an obsessively designed toolkit for writing and deploying jekyll blogs by  Brandon Mathis et al 
 
 
 ## WordPress Migration / Import / Export / Templates
 
-- [WordPress Jekyll Exporter](https://wordpress.org/plugins/jekyll-exporter) - [:octocat:](https://github.com/benbalter/wordpress-to-jekyll-exporter) - export your WordPress blog to jekyll with one click
-- [WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md)
+- **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) - export your WordPress blog to jekyll with one click by Ben Balter
+- **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
+
+
 
 
 ## Markdown
 
-- [Awesome Markdown :octocat:](https://github.com/writekit/awesome-markdown) - Yet another collection about all things Markdown
+See the Awesome Markdown List @ Write Kit (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) »
+
 
 ## Alternatives
 
 _More static site generators_
 
-- [Static Site Generators](https://staticsitegenerators.net) - [:octocat:](https://github.com/bevry/staticsitegenerators) - static site generators listing; all 394 of them
-- [StaticGen](https://www.staticgen.com) - [:octocat:](https://github.com/netlify/staticgen) - top open-source static site generators
-- [Middleman](https://middlemanapp.com) - [:octocat:](https://github.com/middleman), [:gem:](https://rubygems.org/gems/middleman) - (yet another) static site generator in ruby
+- **Static Site Generators** (web: [staticsitegenerators.net](https://staticsitegenerators.net), github: [bevry/staticsitegenerators](https://github.com/bevry/staticsitegenerators)) - static site generators listing; all 394 of them
+- **StaticGen** (web: [staticgen.com](https://www.staticgen.com), github: [netlify/staticgen](https://github.com/netlify/staticgen)) - top open-source static site generators
+- **Middleman** (web: [middlemanapp.com](https://middlemanapp.com), github: [middleman](https://github.com/middleman), gem: [middleman](https://rubygems.org/gems/middleman)) - (yet another) static site generator in ruby by Thomas Reynolds et al
 
 
 ## Meta
@@ -154,4 +157,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 **Questions? Comments?**
 
-Post them to the jekyll talk forum. Thanks!
+Post them to the [jekyll talk forum](https://talk.jekyllrb.com). Thanks!

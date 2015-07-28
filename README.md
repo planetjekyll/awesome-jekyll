@@ -4,7 +4,7 @@ A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
+ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
 
 ---
 

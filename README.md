@@ -95,6 +95,10 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 
 
 
+## Tools
+
+- jcli.sh (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh), doc: [Jekyll Bash UI](http://www.skrauth.de/blog/2015/jekyll-bash-ui/)) - Jekyll Bash Command Line Interface by Stefan Krauth
+
 
 ## GitHub Pages Headquarters (HQ)
 

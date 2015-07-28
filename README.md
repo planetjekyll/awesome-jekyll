@@ -2,8 +2,6 @@
 
 A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
-Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
-
 ---
 
 [ANNOUNCEMENT] Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
@@ -18,15 +16,20 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
 
 ## Jekyll Headquarters (HQ)
 
-- **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll)) - simple, blog-aware static site generator
+_simple, blog-aware static site generator_
+
+- **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
    - [News](http://jekyllrb.com/news) - what's news?
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
-## Quick References / Cheatsheets
+## Quick References / Cheat Sheets
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
+
+<!-- not really updated/maintained
 - **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz
+  -->
 
 
 ## Articles
@@ -34,7 +37,7 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
 **Jekyll Tips** (github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))
 
 - [Getting Started Guide](http://jekyll.tips)
-- and many more
+- And many more
 
 **SitePoint**
 
@@ -58,25 +61,43 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
 
-## More Bookmarks
+## Bookmarks
 
-- [Jekyll Bookmarks @ The New Dynamic](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
+- [**Jekyll Bookmarks @ The New Dynamic**](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
 
 
 ## Themes / Templates
 
-See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.io).
+See the [**Jekyll Theme Directory @ Dr. Jekyll's**](http://drjekyllthemes.github.io) ».
 
 
 ## Plugins / Extensions
 
-- **jekyll-planet** (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto) 
+**"Standard" Core Plugins**
+
+- `jekyll-coffeescript` (github: [jekyll/jekyll-coffeescript](https://github.com/jekyll/jekyll-coffeescript)) - a CoffeeScript converter for Jekyll
+- `jekyll-sass-converter` (github: [jekyll/jekyll-sass-converter](https://github.com/jekyll/jekyll-sass-converter)) - a basic Sass converter for Jekyll
+
+**More Plugins**
+
+- `jekyll-mentions` (github: [jekyll/jekyll-mentions](https://github.com/jekyll/jekyll-mentions)) - @mention support for your Jekyll site
+- `jekyll-redirect-from` (github: [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)) - seamlessly specify multiple redirection URLs for your pages and posts
+- `jekyll-sitemap` (github: [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)) - automatically generate a sitemap.xml for your Jekyll site
+- `jekyll-feed` (github: [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)) - a Jekyll plugin to generate an Atom feed of your Jekyll posts
+- `jemoji`  (github: [jekyll/jemoji](https://github.com/jekyll/jemoji)) - GitHub-flavored emoji plugin for Jekyll
+
+See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
+
+
+**Extensions**
+
+- `jekyll-planet` (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto) 
 
 
 ## Snippets / Recipes
 
-- [Jekyll Snippets @ Planet Jekyll](http://planetjekyll.github.io/snippets) - [:octocat:](https://github.com/planetjekyll/snippets)
-- [Jekyll Snippets Page @ Jekyll Tips](http://jekyll.tips/tutorials/snippets)
+- [**Jekyll Snippets @ Planet Jekyll**](http://planetjekyll.github.io/snippets) (github:  [planetjekyll/snippets](https://github.com/planetjekyll/snippets))
+- [**Jekyll Snippets Page @ Jekyll Tips**](http://jekyll.tips/tutorials/snippets)
 
 
 ## Tips / Tricks
@@ -84,6 +105,26 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 **Articles**
 
 - [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
+
+
+## Liquid
+
+
+## Markdown
+
+See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
+
+
+## Tools
+
+- [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) - Jekyll Bash Command Line Interface by Stefan Krauth
+
+
+## Octopress Headquarters (HQ)
+
+_obsessively designed toolkit for writing and deploying jekyll blogs_
+
+- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) -  by Brandon Mathis et al 
 
 
 ## Publish / Upload / Deploy / Sync
@@ -97,16 +138,12 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
     - Optional step 4: exclude transfer.sh from being copied to the output folder by Jekyll
 
 
-
-## Tools
-
-- `jcli.sh` (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh), doc: [Jekyll Bash UI](http://www.skrauth.de/blog/2015/jekyll-bash-ui/)) - Jekyll Bash Command Line Interface by Stefan Krauth
-
-
 ## GitHub Pages Headquarters (HQ)
 
-- [pages.github.com](https://pages.github.com) - [:octocat:](https://github.com/github/pages-gem), [:gem:](https://rubygems.org/gems/github-pages) -  (web)sites for you and your projects
-    - [Versions](https://pages.github.com/versions) - [(.json)](https://pages.github.com/versions.json) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
+_(web)sites for you and your projects_
+
+- **GitHub Pages** (web: [pages.github.com](https://pages.github.com), github: [github/pages-gem](https://github.com/github/pages-gem), gem: [github-pages](https://rubygems.org/gems/github-pages))
+    - [Dependency Versions](https://pages.github.com/versions) ([`version.json`](https://pages.github.com/versions.json)) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
 
 **Official Docu / Help Pages**
 
@@ -122,22 +159,10 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
     - and many more
 
 
-## Octopress Headquarters (HQ)
-
-- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) - an obsessively designed toolkit for writing and deploying jekyll blogs by  Brandon Mathis et al 
-
-
 ## WordPress Migration / Import / Export / Templates
 
 - **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) - export your WordPress blog to jekyll with one click by Ben Balter
 - **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
-
-
-
-
-## Markdown
-
-See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) »
 
 
 ## Alternatives

@@ -25,13 +25,13 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
 
 ## Quick References / Cheatsheets
 
-- **Jekyll Quick Reference (Cheat Sheet)** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md)) - by Planet Jekyll
+- **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
 - **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz
 
 
 ## Articles
 
-**Jekyll Tips** - [:octocat:](https://github.com/CloudCannon/Jekyll-Tips)
+**Jekyll Tips** (github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))
 
 - [Getting Started Guide](http://jekyll.tips)
 - and many more

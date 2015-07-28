@@ -57,7 +57,7 @@ _simple, blog-aware static site generator_
 
 **More**
 
-- [How We Built Our Blog (with Jekyll](http://blog.stackexchange.com/2015/07/how-we-built-our-blog) by Jon Chan; StackExchange Inc.; July 2015
+- [How We Built Our Blog (with Jekyll)](http://blog.stackexchange.com/2015/07/how-we-built-our-blog) by Jon Chan; StackExchange Inc.; July 2015
 - [A Fast Blogging Solution: Building a Simple Jekyll Blog](https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog) by PJ Hagerty; EngineYard Inc.; Feb 2015
 - [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
@@ -133,7 +133,7 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 
 ## Markdown
 
-_markup in easy-to-read and easy-to-write plain text_
+_modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla text_
 
 See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
 

@@ -41,6 +41,7 @@ _simple, blog-aware static site generator_
 
 **SitePoint**
 
+- [Set Up a Jekyll Blog in 5 Minutes with Poole](http://www.sitepoint.com/set-jekyll-blog-5-minutes-poole/) by Vikas Lalwani; June 2015
 - [Jekyll on Rails](http://www.sitepoint.com/jekyll-rails/) by Jesse Herrick; Apr 2015
 - [Static Blogging Tool Face-Off: Middleman vs Jekyll](http://www.sitepoint.com/static-blogging-g-face-middleman-vs-jekyll/) by David Turnbull; Feb 2015
 - [Blogging: WordPress or Jekyll](http://www.sitepoint.com/blogging-wordpress-or-jekyll/) by Hugo Giraudel; Nov 2014

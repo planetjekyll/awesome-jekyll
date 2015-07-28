@@ -109,7 +109,33 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 - [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
 
 
-## Liquid
+## Liquid Template Language
+
+- **Liquid** (github: [Shopify/liquid](https://github.com/Shopify/liquid), gem: [liquid](https://rubygems.org/gems/liquid))
+    - [Version History / Change Log](https://github.com/Shopify/liquid/blob/master/History.md)
+
+**Docs @ Liquid Wiki**
+
+- [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+    - Output (`{{ }}`)
+       - Advanced output: Filters
+       - Standard Filters
+    - Tags (`{% %}`)
+       - Comments
+       - Raw
+       - If / Else
+       - Case Statement
+       - Cycle
+       - For loops
+       - Variable Assignment
+- [Liquid for Programmers](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers)
+    - Create your own filters
+    - Create your own tags
+    - Create your own tag blocks
+
+**Docs @ Shopify**
+
+- [Liquid Basics](http://docs.shopify.com/themes/liquid-basics)
 
 
 ## Markdown

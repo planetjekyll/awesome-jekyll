@@ -22,9 +22,12 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
    - [News](http://jekyllrb.com/news) - what's news?
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
+
 ## Quick References / Cheatsheets
 
-- [Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll :octocat:](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md)
+- **Jekyll Quick Reference (Cheat Sheet)** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md)) - by Planet Jekyll
+- **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz
+
 
 ## Articles
 

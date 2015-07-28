@@ -54,10 +54,6 @@ NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new confe
 - [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
-**Angular.js**
-
-- [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
-
 
 ## More Bookmarks
 
@@ -78,6 +74,26 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 
 - [Jekyll Snippets @ Planet Jekyll](http://planetjekyll.github.io/snippets) - [:octocat:](https://github.com/planetjekyll/snippets)
 - [Jekyll Snippets Page @ Jekyll Tips](http://jekyll.tips/tutorials/snippets)
+
+
+## Tips / Tricks
+
+**Angular.js**
+
+- [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
+
+
+## Publish / Upload / Deploy / Sync
+
+**Articles**
+
+- [How to automatically deploy static web site to the hosting](http://vrepin.org/vr/JekyllDeploy)  by Vitaly Repin; Jul 2015
+    - Step 1: Install rrsync to your home folder (server-side)
+    - Step 2: Setup certificate-based ssh access (server side)
+    - Step 3: Rsync! (client-side)
+    - Optional step 4: exclude transfer.sh from being copied to the output folder by Jekyll
+
+
 
 
 ## GitHub Pages Headquarters (HQ)

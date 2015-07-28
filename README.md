@@ -118,16 +118,9 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 
 - [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
     - Output (`{{ }}`)
-       - Advanced output: Filters
-       - Standard Filters
+       - Advanced output: Filters • Standard Filters
     - Tags (`{% %}`)
-       - Comments
-       - Raw
-       - If / Else
-       - Case Statement
-       - Cycle
-       - For loops
-       - Variable Assignment
+       - Comments • Raw • If / Else • Case Statement • Cycle • For loops • Variable Assignment
 - [Liquid for Programmers](https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers)
     - Create your own filters
     - Create your own tags
@@ -140,6 +133,8 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 
 ## Markdown
 
+_markup in easy-to-read and easy-to-write plain text_
+
 See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
 
 
@@ -150,7 +145,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 ## Octopress Headquarters (HQ)
 
-_obsessively designed toolkit for writing and deploying jekyll blogs_
+_jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyll blogs_
 
 - **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) -  by Brandon Mathis et al 
 

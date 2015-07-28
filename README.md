@@ -137,7 +137,7 @@ See the [Jekyll Theme Directory @ Dr. Jekyll's »](http://drjekyllthemes.github.
 
 ## Markdown
 
-See the Awesome Markdown List @ Write Kit (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) »
+See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) »
 
 
 ## Alternatives

@@ -71,7 +71,9 @@ _simple, blog-aware static site generator_
 
 ## Themes / Templates
 
-See the [**Jekyll Theme Directory @ Dr. Jekyll's**](http://drjekyllthemes.github.io) ».
+- [**Dr. Jekyll's Themes**](http://drjekyllthemes.github.io)
+- [**Jekyll Tips templates**](http://jekyll.tips/templates/)
+- [Jekyll Themes](http://jekyllthemes.org)
 
 
 ## Plugins / Extensions

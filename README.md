@@ -142,6 +142,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 ## Tools
 
 - [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) - Jekyll Bash Command Line Interface by Stefan Krauth
+- ['jbh.sh']() (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) - Jekyll Blog Helper by Alan Barber
 
 
 ## Octopress Headquarters (HQ)

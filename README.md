@@ -11,7 +11,7 @@ ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten gu
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@viennahtml](https://twitter.com/viennahtml) - Europe's first Jekyll (static site) user group - on Twitter
+NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter.
 
 
 ## Jekyll Headquarters (HQ)

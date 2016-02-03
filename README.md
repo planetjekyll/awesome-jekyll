@@ -186,6 +186,10 @@ _(web)sites for you and your projects_
 
 **Milestones / History**
 
+2016:
+
+- Jan 2016 +++ [GitHub Pages now runs Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
+
 2015:
 
 - Jan 2015 +++ [How GitHub uses GitHub to document GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)

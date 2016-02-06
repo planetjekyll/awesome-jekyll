@@ -26,6 +26,7 @@ _simple, blog-aware static site generator_
 ## Quick References / Cheat Sheets
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
+- [**Jekyll Cheat Sheet @ Jekyll Tips**](http://cheat.jekyll.tips/)
 
 <!-- not really updated/maintained
 - **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz

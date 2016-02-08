@@ -33,6 +33,12 @@ _simple, blog-aware static site generator_
   -->
 
 
+## Books
+
+- [The Free Jekyll Book](http://planetjekyll.github.io/book) - The (Official) Jekyll Docu Reformatted as a Single-Page Black-n-White Online Book (Work-In-Progress)
+- [The Free Jekyll Plugins & Tools Book](http://planetjekyll.github.io/plugins) - READMEs for Jekyll Plugins & Tools Reformatted as a Single-Page Black-n-White Online Book (Work-In-Progress)
+
+
 ## Articles
 
 **Jekyll Tips** (github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))

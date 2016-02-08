@@ -23,6 +23,11 @@ _simple, blog-aware static site generator_
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
+## F.A.Q.s
+
+- [**Jekyll F.A.Q. @ Planet Jekyll**](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md) - Frequently Asked Questions & Answers 
+
+
 ## Quick References / Cheat Sheets
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))

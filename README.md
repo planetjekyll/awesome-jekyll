@@ -25,7 +25,7 @@ _simple, blog-aware static site generator_
 
 ## F.A.Q.s
 
-- [**Jekyll F.A.Q. @ Planet Jekyll**](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md) - Frequently Asked Questions & Answers 
+- [**Jekyll F.A.Q.s @ Planet Jekyll**](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md) - Frequently Asked Questions & Answers 
 
 
 ## Quick References / Cheat Sheets
@@ -40,8 +40,8 @@ _simple, blog-aware static site generator_
 
 ## Books
 
-- [**The Free Jekyll Book**](http://planetjekyll.github.io/book) - _The (Official) Jekyll Docu Reformatted as a Single-Page Black-n-White Online Book (Work-In-Progress)_
-- [**The Free Jekyll Plugins & Tools Book**](http://planetjekyll.github.io/plugins) - _READMEs for Jekyll Plugins & Tools Reformatted as a Single-Page Black-n-White Online Book (Work-In-Progress)_
+- [**The Free Jekyll Book**](http://planetjekyll.github.io/book) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
+- [**The Free Jekyll Plugins & Tools Book**](http://planetjekyll.github.io/plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
 
 
 ## Articles
@@ -151,10 +151,17 @@ _modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla
 See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
 
 
-## Tools
+## Command Line Tools
 
 - [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) - Jekyll Bash Command Line Interface by Stefan Krauth
 - ['jbh.sh']() (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) - Jekyll Blog Helper by Alan Barber
+
+## "Visual" Editing Tools
+
+- **Meet Hyde** ([github: MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+
+- **Utterson** ([github: gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+
 
 
 ## Octopress Headquarters (HQ)

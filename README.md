@@ -40,8 +40,8 @@ _simple, blog-aware static site generator_
 
 ## Books
 
-- [**The Free Jekyll Book**](http://planetjekyll.github.io/book-jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
-- [**The Free Jekyll Plugins & Tools Book**](http://planetjekyll.github.io/book-jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
+- [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
+- [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
 
 
 ## Articles

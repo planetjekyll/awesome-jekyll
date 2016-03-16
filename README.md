@@ -155,6 +155,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 - [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) - Jekyll Bash Command Line Interface by Stefan Krauth
 - ['jbh.sh']() (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) - Jekyll Blog Helper by Alan Barber
+- ['jtasks'](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) - simple, but powerful, interface to run both common and advanced routines in Jekyll projects by Pavel Dmytrenko
 
 ## "Visual" Editing Tools
 

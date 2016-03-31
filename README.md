@@ -76,14 +76,33 @@ _simple, blog-aware static site generator_
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
 
+## Screencasts
+
+- [**Jekyll Casts**](http://jekyll.tips/jekyll-casts) by Mike Neumegen (CloudCannon); FREE
+  - #1 - Introduction to Collections -- Learn how to use collections to manage and organize related content
+  - #2 - Front matter -- Use front matter to set variables on your page
+  - #3 - Layouts -- Use Jekyll layouts to reduce repetition on your site
+  - #4 - Includes -- Jekyll includes let you include page fragments on your site
+  - #5 - Introduction to Liquid -- Introduction to using Liquid in Jekyll static site generator
+  - #6 - Control Flow Statements in Liquid -- Use liquid to control which content is displayed on the page
+  - #7 - Looping in Liquid -- Control how liquid loops over your content
+  - #8 - String Filters in Liquid -- Modify string variables in liquid
+  - and many more
+
 ## Bookmarks
 
-- [**Jekyll Bookmarks @ The New Dynamic**](http://www.thenewdynamic.org/tool/jekyll/) by Bud Parr
+- [**Jekyll Bookmarks @ The New Dynamic**](http://www.thenewdynamic.org/tool/jekyll) by Bud Parr
 
 
 ## Themes / Templates
 
 See the [**Jekyll Theme Directory @ Dr. Jekyll's**](http://drjekyllthemes.github.io) ».
+
+More:
+
+- [**Michael Rose (Made Mistakes) Jekyll Themes**](https://mademistakes.com/work/jekyll-themes) -- Skinny Bones, Minimal Mistakes, So Simple, HiPSTeR, etc.
+- [**Henry's Jekyll Themes**](https://github.com/henrythemes) -- Boom!, Classics Book, Starter, Starter V2, Minimalistic, etc.
+- [**Poole's Jekyll Themes**](https://github.com/poole) by Mark Otto -- Poole, Lanyon, Hyde  
 
 
 ## Plugins / Extensions

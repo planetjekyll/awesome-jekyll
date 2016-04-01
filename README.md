@@ -112,11 +112,14 @@ More:
 - [**Michael Rose (Made Mistakes) Jekyll Themes**](https://mademistakes.com/work/jekyll-themes) -- Skinny Bones, Minimal Mistakes, So Simple, HiPSTeR, etc.
 - [**Henry's Jekyll Themes**](https://github.com/henrythemes) -- Boom!, Classics Book, Starter, Starter V2, Minimalistic, etc.
 - [**Poole's Jekyll Themes**](https://github.com/poole) by Mark Otto -- Poole, Lanyon, Hyde  
+- [**The Zen of Book Designs**](https://github.com/bookdesigns) -- One Book, Many Designs
+- [**The Zen of Page Designs**](https://github.com/pagedesigns) -- One Page, Many Designs
+- [**Slide Show (S9) Templates**](https://github.com/slideshow-templates) -- Slide Show / Presentation Templates e.g. S6 Blank, deck.js, impress.js, etc.
 
 
 ## Applications
 
-- **JKAN - Light-Weight Open Data Catalog (CKAN Clone)** (github: [`timwis/jkan`](https://github.com/timwis/jkan)) by Tim Wisniewski et al; incl. w/ admin pages w/ auth (logins)
+- **JKAN - Light-Weight Open Data Catalog (CKAN Clone)** (web: [`jkan.io`](https://jkan.io), github: [`timwis/jkan`](https://github.com/timwis/jkan)) by Tim Wisniewski et al; incl. w/ admin pages w/ auth (logins)
   - [Q&A w/ Tim Wisniewski](http://usopendata.org/2016/03/28/jkan) (U.S. Open Data); March 2016
 
 ## Plugins / Extensions

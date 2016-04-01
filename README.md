@@ -231,11 +231,11 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 ## "Visual" Editing Tools
 
-- **Meet Hyde** ([github: MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
 
-- **Utterson** ([github: gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
 
-
+- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie - a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
 ## Octopress Headquarters (HQ)
 

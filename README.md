@@ -290,6 +290,7 @@ _(web)sites for you and your projects_
 
 - Sept 2015 +++ [Easier feeds for GitHub Pages](https://github.com/blog/2053-easier-feeds-for-github-pages)
 - May 2015 +++ [Releases metadata for GitHub Pages](https://github.com/blog/1996-releases-metadata-for-github-pages)
+- Apr 2015 +++ [Eight lessons learned hacking on GitHub Pages for six months](https://github.com/blog/1992-eight-lessons-learned-hacking-on-github-pages-for-six-months)
 - Jan 2015 +++ [How GitHub uses GitHub to document GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)
 
 2014:

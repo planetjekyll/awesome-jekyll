@@ -44,6 +44,15 @@ _simple, blog-aware static site generator_
 - [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
 
 
+## Conferences
+
+Online - World Wide - Intertubes
+
+- JekyllConf (web: [`jekyllconf.com`](http://jekyllconf.com)) -- online global conference for all things Jekyll; best practices, case studies, the future of jekyll and more
+  - 2016 @ Intertubes; Saturday May/7th (FREE) - #2
+  - 2015 @ Intertubes; Saturday May/2nd (FREE) - #1
+
+
 ## Articles
 
 **Jekyll Tips** (github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))

@@ -283,10 +283,13 @@ _(web)sites for you and your projects_
 
 2016:
 
+- March 2016 +++ [Upgrading your Textile posts to Markdown](https://github.com/blog/2115-upgrading-your-textile-posts-to-markdown)
 - Feb 2016 +++ [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
 
 2015:
 
+- Sept 2015 +++ [Easier feeds for GitHub Pages](https://github.com/blog/2053-easier-feeds-for-github-pages)
+- May 2015 +++ [Releases metadata for GitHub Pages](https://github.com/blog/1996-releases-metadata-for-github-pages)
 - Jan 2015 +++ [How GitHub uses GitHub to document GitHub](https://github.com/blog/1939-how-github-uses-github-to-document-github)
 
 2014:

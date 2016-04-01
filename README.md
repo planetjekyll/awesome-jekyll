@@ -20,6 +20,10 @@ _simple, blog-aware static site generator_
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
    - [News](http://jekyllrb.com/news) - what's news?
+     - Follow Core Developers
+       - Ben Balter (GitHub Inc.) (github: [benbalter](https://github.com/benbalter), twitter: [benbalter](https://twitter.com/benbalter))
+       - Parker Moore (GitHub Inc.) (github: [parkr](https://github.com/parkr), twitter: [parkr](https://twitter.com/parkr))
+       - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), twitter: [envygeeks](https://twitter.com/envygeeks))
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 

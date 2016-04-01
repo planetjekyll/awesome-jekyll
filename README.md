@@ -22,20 +22,20 @@ _simple, blog-aware static site generator_
    - [News](http://jekyllrb.com/news) - what's news?
       - Follow Core Developers
          - Ben Balter @ GitHub Inc. (github: [benbalter](https://github.com/benbalter), web: [ben.balter.com](http://ben.balter.com), twitter: [benbalter](https://twitter.com/benbalter))
-         - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [https://byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))
+         - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))
          - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), web: [envygeeks.io](https://envygeeks.io), twitter: [envygeeks](https://twitter.com/envygeeks))
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
 ## F.A.Q.s
 
-- [**Jekyll F.A.Q.s @ Planet Jekyll**](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md) - Frequently Asked Questions & Answers 
+- **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/blob/master/FAQ.md](https://github.com/planetjekyll/quickrefs/FAQ.md)) -- Frequently Asked Questions & Answers 
 
 
 ## Quick References / Cheat Sheets
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
-- [**Jekyll Cheat Sheet @ Jekyll Tips**](http://cheat.jekyll.tips/)
+- **Jekyll Cheat Sheet @ Jekyll Tips** (web: [cheat.jekyll.tips](http://cheat.jekyll.tips)
 
 <!-- not really updated/maintained
 - **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz

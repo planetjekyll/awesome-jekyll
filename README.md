@@ -283,7 +283,7 @@ _(web)sites for you and your projects_
 
 2016:
 
-- Jan 2016 +++ [GitHub Pages now runs Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
+- Feb 2016 +++ [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
 
 2015:
 

@@ -13,6 +13,9 @@ ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten gu
 
 NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter.
 
+NOTE: For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
+[@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
+
 
 ## Jekyll Headquarters (HQ)
 
@@ -44,24 +47,25 @@ _simple, blog-aware static site generator_
 
 ## Books
 
-- **Hyde Press Bookshelf** (web: [hydepress.github.io](http://hydepress.github.io)) -- Free (Online) Books about Jekyll and friends
+- **Hyde Press Bookshelf** (web: [hydepress.github.io](http://hydepress.github.io), twitter: [hydepress](https://twitter.com/hydepress)) -- Free (Online) Books about Jekyll and friends
    - [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
    - [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
    - and many more
+
 
 
 ## Conferences
 
 Online - World Wide - Intertubes
 
-- JekyllConf (web: [`jekyllconf.com`](http://jekyllconf.com)) -- online global conference for all things Jekyll; best practices, case studies, the future of jekyll and more
+- JekyllConf (web: [`jekyllconf.com`](http://jekyllconf.com), twitter: [jekyllconf](https://twitter.com/jekyllconf)) -- online global conference for all things Jekyll; best practices, case studies, the future of jekyll and more
   - 2016 @ Intertubes; Saturday May/7th (FREE) - #2
   - 2015 @ Intertubes; Saturday May/2nd (FREE) - #1
 
 
 ## Articles
 
-**Jekyll Tips** (github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))
+**Jekyll Tips** (web: [jekyll.tips](http://jekyll.tips), github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))
 
 - [Getting Started Guide](http://jekyll.tips)
 - And many more

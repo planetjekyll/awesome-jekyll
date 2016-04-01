@@ -16,17 +16,17 @@ ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten gu
 _simple, blog-aware static site generator_
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
-   - [News](http://jekyllrb.com/news) - what's news?
+   - [Official News & Updates](http://jekyllrb.com/news) - what's news?
       - Follow Core Developers
          - Ben Balter @ GitHub Inc. (github: [benbalter](https://github.com/benbalter), web: [ben.balter.com](http://ben.balter.com), twitter: [benbalter](https://twitter.com/benbalter))
          - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))
          - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), web: [envygeeks.io](https://envygeeks.io), twitter: [envygeeks](https://twitter.com/envygeeks))
-   - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
+   - [Official Talk Forum](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
 ## News
 
-For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter.
+- **Static Times** (twitter: [statictimes](https://twitter.com/statictimes), github: [statictimes](https://github.com/statictimes)) -- For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter
 
 - **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 
@@ -199,7 +199,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 **News**
 
-For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
+- **Manuscripts News** (twitter: [manuscriptsnews](https://twitter.com/manuscriptsnews)) -- For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
 [@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
 
 

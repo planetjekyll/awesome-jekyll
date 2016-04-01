@@ -31,6 +31,13 @@ _simple, blog-aware static site generator_
 - **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 
 
+## Showcase 
+
+_The world's greatest static (web)sites_
+
+- **Jekyll Static Site Showcase @ Planet Jekyll** (web: [planetjekyll.github.io/showcase](http://planetjekyll.github.io/showcase)) - Bootstrap, Polymer, The Open Data Handbook, Stack Exchange Blog, and many more; all sites with sources 
+
+
 ## F.A.Q.s
 
 - **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/FAQ.md](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md)) -- Frequently Asked Questions & Answers 

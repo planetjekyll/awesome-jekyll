@@ -21,9 +21,9 @@ _simple, blog-aware static site generator_
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
    - [News](http://jekyllrb.com/news) - what's news?
       - Follow Core Developers
-         - Ben Balter @ GitHub Inc. (github: [benbalter](https://github.com/benbalter), twitter: [benbalter](https://twitter.com/benbalter))
-         - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), twitter: [parkr](https://twitter.com/parkr))
-         - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), twitter: [envygeeks](https://twitter.com/envygeeks))
+         - Ben Balter @ GitHub Inc. (github: [benbalter](https://github.com/benbalter), web: [ben.balter.com](http://ben.balter.com), twitter: [benbalter](https://twitter.com/benbalter))
+         - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [https://byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))
+         - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), web: [envygeeks.io](https://envygeeks.io), twitter: [envygeeks](https://twitter.com/envygeeks))
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
@@ -44,8 +44,10 @@ _simple, blog-aware static site generator_
 
 ## Books
 
-- [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
-- [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
+- [**Hyde Press Bookshelf**](http://hydepress.github.io) - Free (Online) Books about Jekyll and friends
+   - [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
+   - [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
+   - and many more
 
 
 ## Conferences

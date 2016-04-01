@@ -283,6 +283,7 @@ _(web)sites for you and your projects_
 
 2016:
 
+- April 2016 +++ [A look behind our decision to standardize on a single Markdown engine for GitHub Pages](https://github.com/blog/2136-a-look-behind-our-decision-to-standardize-on-a-single-markdown-engine-for-github-pages)
 - March 2016 +++ [Upgrading your Textile posts to Markdown](https://github.com/blog/2115-upgrading-your-textile-posts-to-markdown)
 - Feb 2016 +++ [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
 
@@ -324,7 +325,8 @@ _(web)sites for you and your projects_
 
 ## WordPress Migration / Import / Export / Templates
 
-- **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) - export your WordPress blog to jekyll with one click by Ben Balter
+- **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) by Ben Balter -- export your WordPress blog to jekyll with one click 
+- **WordPress <--> GitHub Sync** (wordpress: [plugins/wp-github-sync](https://wordpress.org/plugins/wp-github-sync), github: [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync)) by James DiGioia, Ben Balter et al -- sync content with a GitHub repository (or Jekyll site)
 - **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
 
 

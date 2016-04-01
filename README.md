@@ -114,6 +114,11 @@ More:
 - [**Poole's Jekyll Themes**](https://github.com/poole) by Mark Otto -- Poole, Lanyon, Hyde  
 
 
+## Applications
+
+- **JKAN - Light-Weight Open Data Catalog (CKAN Clone)** (github: [`timwis/jkan`](https://github.com/timwis/jkan)) by Tim Wisniewski et al; incl. w/ admin pages w/ auth (logins)
+  - [Q&A w/ Tim Wisniewski](http://usopendata.org/2016/03/28/jkan) (U.S. Open Data); March 2016
+
 ## Plugins / Extensions
 
 **"Standard" Core Plugins**

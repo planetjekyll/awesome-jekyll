@@ -29,13 +29,13 @@ _simple, blog-aware static site generator_
 
 ## F.A.Q.s
 
-- **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/blob/master/FAQ.md](https://github.com/planetjekyll/quickrefs/FAQ.md)) -- Frequently Asked Questions & Answers 
+- **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/FAQ.md](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md)) -- Frequently Asked Questions & Answers 
 
 
 ## Quick References / Cheat Sheets
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
-- **Jekyll Cheat Sheet @ Jekyll Tips** (web: [cheat.jekyll.tips](http://cheat.jekyll.tips)
+- **Jekyll Cheat Sheet @ Jekyll Tips** (web: [cheat.jekyll.tips](http://cheat.jekyll.tips))
 
 <!-- not really updated/maintained
 - **Jekyll Cheat Sheet** (web: [ricostacruz.com/cheatsheets/jekyll.html](http://ricostacruz.com/cheatsheets/jekyll.html), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz
@@ -44,7 +44,7 @@ _simple, blog-aware static site generator_
 
 ## Books
 
-- [**Hyde Press Bookshelf**](http://hydepress.github.io) - Free (Online) Books about Jekyll and friends
+- **Hyde Press Bookshelf** (web: [hydepress.github.io](http://hydepress.github.io)) -- Free (Online) Books about Jekyll and friends
    - [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
    - [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
    - and many more

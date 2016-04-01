@@ -11,12 +11,6 @@ ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten gu
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
-NOTE: For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter.
-
-NOTE: For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
-[@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
-
-
 ## Jekyll Headquarters (HQ)
 
 _simple, blog-aware static site generator_
@@ -28,6 +22,13 @@ _simple, blog-aware static site generator_
          - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))
          - Jordon Bedwell (github: [envygeeks](https://github.com/envygeeks), web: [envygeeks.io](https://envygeeks.io), twitter: [envygeeks](https://twitter.com/envygeeks))
    - [Talk](https://talk.jekyllrb.com) - discuss all things Jekyll
+
+
+## News
+
+For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter.
+
+- **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 
 
 ## F.A.Q.s
@@ -195,6 +196,12 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 _modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla text_
 
 See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
+
+**News**
+
+For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
+[@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
+
 
 
 ## Command Line Tools

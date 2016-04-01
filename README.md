@@ -71,6 +71,24 @@ Online - World Wide - Intertubes
 - [Getting Started Guide](http://jekyll.tips)
 - And many more
 
+**Various**
+
+- [Achieving 100 / 100 on Google PageSpeed Insights (using Jekyll)](https://www.smartiehastheanswer.co.uk/achieving-100-out-of-100-on-google-pagespeed-insights-using-jekyll.html) by Andy Smart; March 2016
+- [Goodbye Medium, Hello Jekyll](http://intersect.whitefusion.io/open-web/goodbye-medium-hello-jekyll) by Jared White; March 2016
+- [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016) by Michael Rose; 2016
+- [How to Create an Open Source Directory on GitHub Pages](http://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225) by David Darnes; March 2016
+- [Why I left Blogger for Jekyll](https://era86.github.io/2016/03/26/why-i-left-blogger-for-jekyll.html) by Fred; March 2016
+- [Consider Jekyll: why I use Jekyll to publish on the web and why you might be interested](https://olivermak.es/2016/03/consider-jekyll) by Oliver Pattison; March 2016
+- [How We Built Our Blog (with Jekyll)](http://blog.stackexchange.com/2015/07/how-we-built-our-blog) by Jon Chan; StackExchange Inc.; July 2015
+- Building a blog using Jekyll by Jeremias Menichelli
+  - [Install and quick setup](http://jeremenichelli.github.io/2015/07/building-blog-jekyll-installation-setup) July 2015 
+  - [Creating custom layouts](http://jeremenichelli.github.io/2015/07/building-blog-jekyll-creating-layouts) July 2015
+  - [Writing posts and presenting them](http://jeremenichelli.github.io/2015/08/building-blog-jekyll-posts); Aug 2015
+- [A Fast Blogging Solution: Building a Simple Jekyll Blog](https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog) by PJ Hagerty; EngineYard Inc.; Feb 2015
+- [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
+- [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
+
+
 **SitePoint**
 
 - [Set Up a Jekyll Blog in 5 Minutes with Poole](http://www.sitepoint.com/set-jekyll-blog-5-minutes-poole/) by Vikas Lalwani; June 2015
@@ -88,12 +106,6 @@ Online - World Wide - Intertubes
 - [Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/); Jul 2013
 - [PixelCog.com Site](http://pixelcog.com) (github: [pixelcog/pixelcog.github.io](https://github.com/pixelcog/pixelcog.github.io))
 
-**More**
-
-- [How We Built Our Blog (with Jekyll)](http://blog.stackexchange.com/2015/07/how-we-built-our-blog) by Jon Chan; StackExchange Inc.; July 2015
-- [A Fast Blogging Solution: Building a Simple Jekyll Blog](https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog) by PJ Hagerty; EngineYard Inc.; Feb 2015
-- [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
-- [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
 
 
 ## Screencasts

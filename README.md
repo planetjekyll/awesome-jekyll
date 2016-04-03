@@ -146,6 +146,11 @@ More:
 - [**The Zen of Page Designs**](https://github.com/pagedesigns) -- One Page, Many Designs
 - [**Slide Show (S9) Templates**](https://github.com/slideshow-templates) -- Slide Show / Presentation Templates e.g. S6 Blank, deck.js, impress.js, etc.
 
+## Theme Package Manager and Wizards
+
+- **drj / drjekyll** (github: [drjekyllthemes/drjekyll](https://github.com/drjekyllthemes/drjekyll), gem: [drjekyll](https://rubygems.org/gems/drjekyll)) -- the missing static site theme package manager
+- **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard 
+  - [mrhyde wizard scripts](https://github.com/mrhydescripts/scripts) -- automate, automate, automate
 
 ## Applications
 

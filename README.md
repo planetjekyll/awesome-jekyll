@@ -157,7 +157,7 @@ More:
 - **JKAN - Light-Weight Open Data Catalog (CKAN Clone)** (web: [`jkan.io`](https://jkan.io), github: [`timwis/jkan`](https://github.com/timwis/jkan)) by Tim Wisniewski et al; incl. w/ admin pages w/ auth (logins)
   - [Q&A w/ Tim Wisniewski](http://usopendata.org/2016/03/28/jkan) (U.S. Open Data); March 2016
 
-- **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency);  a web app for publishing static government websites (w/ Jekyll)
+- **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency part of General Services Administration);  a web app for publishing static government websites (w/ Jekyll)
 
 ## Plugins / Extensions
 
@@ -239,7 +239,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 ## "Visual" Editing Tools
 
-- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose) - a content editor for GitHub designed for managing (web)sites
+- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) - a content editor for GitHub designed for managing (web)sites
 
 - **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
 

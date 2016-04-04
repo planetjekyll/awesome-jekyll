@@ -278,7 +278,7 @@ _(web)sites for you and your projects_
 - [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
     - [Using Jekyll as a static site generator with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
     - [Troubleshooting Jekyll builds](https://help.github.com/articles/troubleshooting-jekyll-builds/)
-    - [Adding Jekyll plugins to a GitHub Pagest site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
+    - [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
     - [Using a custom domain with GitHub pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
     - [Additional customizations for GitHub Pages](https://help.github.com/articles/additional-customizations-for-github-pages/)
     - and many mored    

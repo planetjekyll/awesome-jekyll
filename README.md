@@ -4,7 +4,7 @@ A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 ---
 
-ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books). 
+ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books).
 
 ---
 
@@ -31,16 +31,16 @@ _simple, blog-aware static site generator_
 - **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 
 
-## Showcase 
+## Showcase
 
 _The world's greatest static (web)sites_
 
-- **Jekyll Static Site Showcase @ Planet Jekyll** (web: [planetjekyll.github.io/showcase](http://planetjekyll.github.io/showcase)) - Bootstrap, Polymer, The Open Data Handbook, Stack Exchange Blog, and many more; all sites with sources 
+- **Jekyll Static Site Showcase @ Planet Jekyll** (web: [planetjekyll.github.io/showcase](http://planetjekyll.github.io/showcase)) - Bootstrap, Polymer, The Open Data Handbook, Stack Exchange Blog, and many more; all sites with sources
 
 
 ## F.A.Q.s
 
-- **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/FAQ.md](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md)) -- Frequently Asked Questions & Answers 
+- **Jekyll F.A.Q.s @ Planet Jekyll** (github: [planetjekyll/quickrefs/FAQ.md](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md)) -- Frequently Asked Questions & Answers
 
 
 ## Quick References / Cheat Sheets
@@ -88,7 +88,7 @@ Online - World Wide - Intertubes
 - [Consider Jekyll: why I use Jekyll to publish on the web and why you might be interested](https://olivermak.es/2016/03/consider-jekyll) by Oliver Pattison; March 2016
 - [How We Built Our Blog (with Jekyll)](http://blog.stackexchange.com/2015/07/how-we-built-our-blog) by Jon Chan; StackExchange Inc.; July 2015
 - Building a blog using Jekyll by Jeremias Menichelli
-  - [Install and quick setup](http://jeremenichelli.github.io/2015/07/building-blog-jekyll-installation-setup) July 2015 
+  - [Install and quick setup](http://jeremenichelli.github.io/2015/07/building-blog-jekyll-installation-setup) July 2015
   - [Creating custom layouts](http://jeremenichelli.github.io/2015/07/building-blog-jekyll-creating-layouts) July 2015
   - [Writing posts and presenting them](http://jeremenichelli.github.io/2015/08/building-blog-jekyll-posts); Aug 2015
 - [A Fast Blogging Solution: Building a Simple Jekyll Blog](https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog) by PJ Hagerty; EngineYard Inc.; Feb 2015
@@ -109,7 +109,7 @@ Online - World Wide - Intertubes
 **Jekyll From Scratch Series** by Mike Greiling (PixelCog; Minneapolis, MN)
 
 - [Getting Started](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/); Jul 2013
-- [Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/); Jul 2013 
+- [Core Architecture](http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/); Jul 2013
 - [Extending Jekyll](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/); Jul 2013
 - [PixelCog.com Site](http://pixelcog.com) (github: [pixelcog/pixelcog.github.io](https://github.com/pixelcog/pixelcog.github.io))
 
@@ -149,7 +149,7 @@ More:
 ## Theme Package Manager and Wizards
 
 - **drj / drjekyll** (github: [drjekyllthemes/drjekyll](https://github.com/drjekyllthemes/drjekyll), gem: [drjekyll](https://rubygems.org/gems/drjekyll)) -- the missing static site theme package manager
-- **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard 
+- **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard
   - [mrhyde wizard scripts](https://github.com/mrhydescripts/scripts) -- automate, automate, automate
 
 ## Applications
@@ -177,7 +177,7 @@ See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
 
 **Extensions**
 
-- `jekyll-planet` (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto) 
+- `jekyll-planet` (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto)
 
 
 ## Snippets / Recipes
@@ -223,15 +223,15 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 **News**
 
-- **Manuscripts News** (twitter: [manuscriptsnews](https://twitter.com/manuscriptsnews)) -- For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow 
+- **Manuscripts News** (twitter: [manuscriptsnews](https://twitter.com/manuscriptsnews)) -- For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow
 [@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
 
 
 
 ## Command Line Tools
 
-- [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface 
-- `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper 
+- [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface
+- `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
 
 
@@ -247,7 +247,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 _jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyll blogs_
 
-- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) -  by Brandon Mathis et al 
+- **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) -  by Brandon Mathis et al
 
 
 ## Publish / Upload / Deploy / Sync
@@ -275,12 +275,15 @@ _(web)sites for you and your projects_
 - [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics)
     - [Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages)
     - and many more
-- [GitHub Pages Features](https://help.github.com/categories/github-pages-features)
-    - [Using Jekyll Plugins with GitHub Pages](https://help.github.com/articles/using-jekyll-plugins-with-github-pages)
-    - [Repository metadata on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages)
-    - and many more
+- [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+    - [Using Jekyll as a static site generator with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+    - [Troubleshooting Jekyll builds](https://help.github.com/articles/troubleshooting-jekyll-builds/)
+    - [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
+    - [Using a custom domain with GitHub pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+    - [Additional customizations for GitHub Pages](https://help.github.com/articles/additional-customizations-for-github-pages/)
+    - and many mored    
 - [GitHub Pages Troubleshooting](https://help.github.com/categories/github-pages-troubleshooting)
-    - [Troubleshooting GitHub Pages build failures](https://help.github.com/articles/troubleshooting-github-pages-build-failures)
+    - [Unpublishing a Project Pages site](https://help.github.com/articles/unpublishing-a-project-pages-site/)
     - and many more
 
 
@@ -330,7 +333,7 @@ _(web)sites for you and your projects_
 
 ## WordPress Migration / Import / Export / Templates
 
-- **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) by Ben Balter -- export your WordPress blog to jekyll with one click 
+- **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) by Ben Balter -- export your WordPress blog to jekyll with one click
 - **WordPress <--> GitHub Sync** (wordpress: [plugins/wp-github-sync](https://wordpress.org/plugins/wp-github-sync), github: [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync)) by James DiGioia, Ben Balter et al -- sync content with a GitHub repository (or Jekyll site)
 - **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
 

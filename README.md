@@ -339,12 +339,9 @@ _(web)sites for you and your projects_
 
 _(web)sites for you and your projects_
 
-**GitLab Pages** (web: [pages.gitlab.io](http://pages.gitlab.io))
-
-- [**Official Documentation**](http://doc.gitlab.com/ee/pages/README.html)
-- **Example Jekyll Site** (gitlab: [pages/jekyll](https://gitlab.com/pages/jekyll)) -- example jekyll site using GitLab Pages
-
-
+- **GitLab Pages** (web: [pages.gitlab.io](http://pages.gitlab.io))
+  - [**Official Documentation**](http://doc.gitlab.com/ee/pages/README.html)
+  - **Example Jekyll Site** (gitlab: [pages/jekyll](https://gitlab.com/pages/jekyll)) -- example jekyll site using GitLab Pages
 
 
 ## WordPress Migration / Import / Export / Templates

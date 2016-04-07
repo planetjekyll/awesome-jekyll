@@ -335,6 +335,18 @@ _(web)sites for you and your projects_
 - Dec 2008 +++ [GitHub Pages](https://github.com/blog/272-github-pages)
 
 
+## GitLab Pages Headquarters (HQ)
+
+_(web)sites for you and your projects_
+
+**GitLab Pages** (web: [pages.gitlab.io](http://pages.gitlab.io))
+
+- [**Official Documentation**](http://doc.gitlab.com/ee/pages/README.html)
+- **Example Jekyll Site** (gitlab: [pages/jekyll](https://gitlab.com/pages/jekyll)) -- example jekyll site using GitLab Pages
+
+
+
+
 ## WordPress Migration / Import / Export / Templates
 
 - **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) by Ben Balter -- export your WordPress blog to jekyll with one click

@@ -346,9 +346,7 @@ _(web)sites for you and your projects_
 
 _More static site generators_
 
-- **Static Site Generators** (web: [staticsitegenerators.net](https://staticsitegenerators.net), github: [bevry/staticsitegenerators](https://github.com/bevry/staticsitegenerators)) - static site generators listing; all 394 of them
-- **StaticGen** (web: [staticgen.com](https://www.staticgen.com), github: [netlify/staticgen](https://github.com/netlify/staticgen)) - top open-source static site generators
-- **Middleman** (web: [middlemanapp.com](https://middlemanapp.com), github: [middleman](https://github.com/middleman), gem: [middleman](https://rubygems.org/gems/middleman)) - (yet another) static site generator in ruby by Thomas Reynolds et al
+See the **Awesome Static List @ Static Times** (github: [statictimes/awesome-static](https://github.com/statictimes/awesome-static)) ».
 
 
 ## Meta

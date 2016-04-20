@@ -1,3 +1,9 @@
+Awesome Series @ Planet Jekyll
+
+[Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+
+
 # Awesome Jekyll
 
 A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)

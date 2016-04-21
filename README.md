@@ -1,7 +1,8 @@
 Awesome Series @ Planet Jekyll
 
 [Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
-[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)
+[Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
+[Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
 
 
 # Awesome Jekyll
@@ -243,16 +244,6 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
 
 
-## "Visual" Editing Tools
-
-- **Prose** (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) - a content editor for GitHub designed for managing (web)sites
-
-- **Meet Hyde** (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) - provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
-
-- **Utterson** (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) - web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
-
-- **Little Jekyll** (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie - a desktop app to manage Jekyll websites, overview and control your Jekyll processes
-
 ## Octopress Headquarters (HQ)
 
 _jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyll blogs_
@@ -355,6 +346,8 @@ _(web)sites for you and your projects_
 - **WordPress Jekyll Exporter** (wordpress: [plugins/jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter), github: [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)) by Ben Balter -- export your WordPress blog to jekyll with one click
 - **WordPress <--> GitHub Sync** (wordpress: [plugins/wp-github-sync](https://wordpress.org/plugins/wp-github-sync), github: [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync)) by James DiGioia, Ben Balter et al -- sync content with a GitHub repository (or Jekyll site)
 - **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
+- **Wordpress2Jekyll** (wordpress: [plugins/wp2jekyll](https://wordpress.org/plugins/wp2jekyll)) -- a Wordpress plugin that allows you to use Wordpress as your editor and (automatically) export content in to Jekyll. WordPress2Jekyll attempts to marry these two systems together in order to make a site that can be easily managed from all devices.
+
 
 
 ## Alternatives

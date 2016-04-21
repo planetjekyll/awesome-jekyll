@@ -166,27 +166,10 @@ More:
 
 - **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency part of General Services Administration);  a web app for publishing static government websites (w/ Jekyll)
 
+
 ## Plugins / Extensions
 
-**"Standard" Core Plugins**
-
-- `jekyll-coffeescript` (github: [jekyll/jekyll-coffeescript](https://github.com/jekyll/jekyll-coffeescript)) - a CoffeeScript converter for Jekyll
-- `jekyll-sass-converter` (github: [jekyll/jekyll-sass-converter](https://github.com/jekyll/jekyll-sass-converter)) - a basic Sass converter for Jekyll
-
-**More Plugins**
-
-- `jekyll-mentions` (github: [jekyll/jekyll-mentions](https://github.com/jekyll/jekyll-mentions)) - @mention support for your Jekyll site
-- `jekyll-redirect-from` (github: [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)) - seamlessly specify multiple redirection URLs for your pages and posts
-- `jekyll-sitemap` (github: [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)) - automatically generate a sitemap.xml for your Jekyll site
-- `jekyll-feed` (github: [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)) - a Jekyll plugin to generate an Atom feed of your Jekyll posts
-- `jemoji`  (github: [jekyll/jemoji](https://github.com/jekyll/jemoji)) - GitHub-flavored emoji plugin for Jekyll
-
-See the [Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) ».
-
-
-**Extensions**
-
-- `jekyll-planet` (github: [feedreader/jekyll-planet](https://github.com/feedreader/jekyll-planet), gem: [jekyll-planet](https://rubygems.org/gems/jekyll-planet)) - add articles, blogs to your site via web feeds (and planet pluto)
+See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)) ».
 
 
 ## Snippets / Recipes
@@ -242,6 +225,12 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 - [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface
 - `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
+
+
+## "Visual" Editors n Tools
+
+See the **Awesome Jekyll Editors List** (github: [planetjekyll/awesome-jekyll-editors](https://github.com/planetjekyll/awesome-jekyll-editors)) ».
+
 
 
 ## Octopress Headquarters (HQ)
@@ -365,4 +354,4 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 **Questions? Comments?**
 
-Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
+Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!

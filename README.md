@@ -159,6 +159,7 @@ More:
 - **drj / drjekyll** (github: [drjekyllthemes/drjekyll](https://github.com/drjekyllthemes/drjekyll), gem: [drjekyll](https://rubygems.org/gems/drjekyll)) -- the missing static site theme package manager
 - **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard
   - [mrhyde wizard scripts](https://github.com/mrhydescripts/scripts) -- automate, automate, automate
+- **slush gh-pages / GitHub Pages Generator** (github: [ronik-design/slush-gh-pages](https://github.com/ronik-design/slush-gh-pages), npm: [slush-gh-pages](https://npmsjs.com/slush-gh-pages)) -- boilerplate wizard with CSS framework selection and extensive Node.js-based tooling. Specifically intended for use with GitHub Pages.
 
 ## Applications
 

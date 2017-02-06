@@ -1,6 +1,6 @@
 Awesome Series @ Planet Jekyll
 
-[Jekyll](https://github.com/planetjekyll/awesome-jekyll) • 
+[Jekyll](https://github.com/planetjekyll/awesome-jekyll) •
 [Jekyll Themes](https://github.com/planetjekyll/awesome-jekyll-themes) •
 [Jekyll Plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) •
 [Jekyll Editors](https://github.com/planetjekyll/awesome-jekyll-editors)
@@ -227,6 +227,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 - [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface
 - `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
+- [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - A Jekyll Progressive Web App yeoman generator.
 
 
 ## "Visual" Editors n Tools

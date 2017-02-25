@@ -143,7 +143,10 @@ Online - World Wide - Intertubes
 
 ## Themes / Templates
 
-See the [**Jekyll Theme Directory @ Dr. Jekyll's**](http://drjekyllthemes.github.io) ».
+- [**Dr. Jekyll's Themes**](http://drjekyllthemes.github.io)
+- [**Jekyll Tips templates**](http://jekyll.tips/templates/)
+- [**Jekyll wiki theme list**](https://github.com/jekyll/jekyll/wiki/Themes)
+- [Jekyll Themes](http://jekyllthemes.org)
 
 More:
 

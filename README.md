@@ -24,7 +24,7 @@ ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten gu
 _simple, blog-aware static site generator_
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
-   - [Official News & Updates](http://jekyllrb.com/news) - what's news?
+   - [Official News & Updates](http://jekyllrb.com/news) - what's new?
       - Follow Core Developers
          - Ben Balter @ GitHub Inc. (github: [benbalter](https://github.com/benbalter), web: [ben.balter.com](http://ben.balter.com), twitter: [benbalter](https://twitter.com/benbalter))
          - Parker Moore @ GitHub Inc. (github: [parkr](https://github.com/parkr), web: [byparker.com](https://byparker.com), twitter: [parkr](https://twitter.com/parkr))

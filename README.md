@@ -88,6 +88,7 @@ Online - World Wide - Intertubes
 
 **Various**
 
+- [CloudCanon CMS for Jekyll: Building a Multilingual Site](https://snipcart.com/blog/cms-jekyll-cloud-cannon-multilingual) by Jean-Sebastien Tremblay; Snipcart; Sep 2017
 - [Achieving 100 / 100 on Google PageSpeed Insights (using Jekyll)](https://www.smartiehastheanswer.co.uk/achieving-100-out-of-100-on-google-pagespeed-insights-using-jekyll.html) by Andy Smart; March 2016
 - [Goodbye Medium, Hello Jekyll](http://intersect.whitefusion.io/open-web/goodbye-medium-hello-jekyll) by Jared White; March 2016
 - [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016) by Michael Rose; 2016

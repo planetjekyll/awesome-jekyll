@@ -12,16 +12,16 @@ A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 ---
 
-ANNOUNCEMENT: Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books).
+**ANNOUNCEMENT:** Looking for awesome book examples in markdown (e.g. handwritten guides, auto-build almanacs w/ open data, etc.)? See the [Awesome Books List](https://github.com/writekit/awesome-books).
 
 ---
 
 #### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
-
+<br>
 
 ## Jekyll Headquarters (HQ)
 
-_simple, blog-aware static site generator_
+_Simple, blog-aware static site generator_
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
    - [Official News & Updates](http://jekyllrb.com/news) - what's news?
@@ -41,7 +41,7 @@ _simple, blog-aware static site generator_
 
 ## Showcase
 
-_The world's greatest static (web)sites_
+_The world's greatest static websites_
 
 - **Jekyll Static Site Showcase @ Planet Jekyll** (web: [planetjekyll.github.io/showcase](http://planetjekyll.github.io/showcase)) - Bootstrap, Polymer, The Open Data Handbook, Stack Exchange Blog, and many more; all sites with sources
 
@@ -61,10 +61,9 @@ _The world's greatest static (web)sites_
 ## Books
 
 - **Hyde Press Bookshelf** (web: [hydepress.github.io](http://hydepress.github.io), twitter: [hydepress](https://twitter.com/hydepress)) -- Free (Online) Books about Jekyll and friends
-   - [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll docu reformatted as a single-page black-n-white online book (work-in-progress)
+   - [**The Free Jekyll Book**](http://hydepress.github.io/jekyll) - the (Official) Jekyll doc reformatted as a single-page black-n-white online book (work-in-progress)
    - [**The Free Jekyll Plugins & Tools Book**](http://hydepress.github.io/jekyll-plugins) - READMEs for Jekyll plugins & tools reformatted as a single-page black-n-white online book (work-in-progress)
    - and many more
-
 
 
 ## Conferences
@@ -120,7 +119,6 @@ Online - World Wide - Intertubes
 - [PixelCog.com Site](http://pixelcog.com) (github: [pixelcog/pixelcog.github.io](https://github.com/pixelcog/pixelcog.github.io))
 
 
-
 ## Screencasts
 
 - [**Jekyll Casts**](http://jekyll.tips/jekyll-casts) by Mike Neumegen (CloudCannon); FREE
@@ -133,6 +131,7 @@ Online - World Wide - Intertubes
   - #7 - Looping in Liquid -- Control how liquid loops over your content
   - #8 - String Filters in Liquid -- Modify string variables in liquid
   - and many more
+
 
 ## Bookmarks
 
@@ -152,12 +151,14 @@ More:
 - [**The Zen of Page Designs**](https://github.com/pagedesigns) -- One Page, Many Designs
 - [**Slide Show (S9) Templates**](https://github.com/slideshow-templates) -- Slide Show / Presentation Templates e.g. S6 Blank, deck.js, impress.js, etc.
 
+
 ## Theme Package Manager and Wizards
 
 - **drj / drjekyll** (github: [drjekyllthemes/drjekyll](https://github.com/drjekyllthemes/drjekyll), gem: [drjekyll](https://rubygems.org/gems/drjekyll)) -- the missing static site theme package manager
 - **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard
   - [mrhyde wizard scripts](https://github.com/mrhydescripts/scripts) -- automate, automate, automate
 - **slush gh-pages / GitHub Pages Generator** (github: [ronik-design/slush-gh-pages](https://github.com/ronik-design/slush-gh-pages), npm: [slush-gh-pages](https://npmsjs.com/slush-gh-pages)) -- boilerplate wizard with CSS framework selection and extensive Node.js-based tooling. Specifically intended for use with GitHub Pages.
+
 
 ## Applications
 
@@ -209,7 +210,7 @@ See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-pl
 
 ## Markdown
 
-_modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla text_
+_Modern hypertext markup in easy-to-read and easy-to-write ye olde plain vanilla text_
 
 See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdown](https://github.com/writekit/awesome-markdown)) ».
 
@@ -217,7 +218,6 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 - **Manuscripts News** (twitter: [manuscriptsnews](https://twitter.com/manuscriptsnews)) -- For news about writing in Markdown 'n' friends (e.g. tools, tips & trips, etc.) follow
 [@manuscriptsnews](https://twitter.com/manuscriptsnews) on Twitter.
-
 
 
 ## Command Line Tools
@@ -233,10 +233,9 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 See the **Awesome Jekyll Editors List** (github: [planetjekyll/awesome-jekyll-editors](https://github.com/planetjekyll/awesome-jekyll-editors)) ».
 
 
-
 ## Octopress Headquarters (HQ)
 
-_jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyll blogs_
+_Jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyll blogs_
 
 - **Octopress** (web: [octopress.org](http://octopress.org), github: [octopress](https://github.com/octopress), gem: [octopress](https://rubygems.org/gems/octopress)) -  by Brandon Mathis et al
 
@@ -256,12 +255,12 @@ _jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyl
 
 ## GitHub Pages Headquarters (HQ)
 
-_(web)sites for you and your projects_
+_Websites for you and your projects_
 
 - **GitHub Pages** (web: [pages.github.com](https://pages.github.com), github: [github/pages-gem](https://github.com/github/pages-gem), gem: [github-pages](https://rubygems.org/gems/github-pages))
     - [Dependency Versions](https://pages.github.com/versions) ([`version.json`](https://pages.github.com/versions.json)) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
 
-**Official Docu / Help Pages**
+**Official Doc / Help Pages**
 
 - [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics)
     - [Using Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages)
@@ -272,7 +271,7 @@ _(web)sites for you and your projects_
     - [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
     - [Using a custom domain with GitHub pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
     - [Additional customizations for GitHub Pages](https://help.github.com/articles/additional-customizations-for-github-pages/)
-    - and many mored    
+    - and many more
 - [GitHub Pages Troubleshooting](https://help.github.com/categories/github-pages-troubleshooting)
     - [Unpublishing a Project Pages site](https://help.github.com/articles/unpublishing-a-project-pages-site/)
     - and many more
@@ -324,7 +323,7 @@ _(web)sites for you and your projects_
 
 ## GitLab Pages Headquarters (HQ)
 
-_(web)sites for you and your projects_
+_Websites for you and your projects_
 
 - **GitLab Pages** (web: [pages.gitlab.io](http://pages.gitlab.io))
   - [**Official Documentation**](http://doc.gitlab.com/ee/pages/README.html)
@@ -337,7 +336,6 @@ _(web)sites for you and your projects_
 - **WordPress <--> GitHub Sync** (wordpress: [plugins/wp-github-sync](https://wordpress.org/plugins/wp-github-sync), github: [mAAdhaTTah/wordpress-github-sync](https://github.com/mAAdhaTTah/wordpress-github-sync)) by James DiGioia, Ben Balter et al -- sync content with a GitHub repository (or Jekyll site)
 - **WordPress Theme <=> Jekyll Template Cheat Sheet @ Planet Jekyll** (github: [planetjekyll/quickrefs/WORDPRESS.md](https://github.com/planetjekyll/quickrefs/blob/master/WORDPRESS.md))
 - **Wordpress2Jekyll** (wordpress: [plugins/wp2jekyll](https://wordpress.org/plugins/wp2jekyll)) -- a Wordpress plugin that allows you to use Wordpress as your editor and (automatically) export content in to Jekyll. WordPress2Jekyll attempts to marry these two systems together in order to make a site that can be easily managed from all devices.
-
 
 
 ## Alternatives

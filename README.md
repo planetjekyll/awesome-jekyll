@@ -16,7 +16,7 @@ A collection of awesome Jekyll goodies (tools, templates, themes, plugins, guide
 
 ## Jekyll Headquarters (HQ)
 
-_Simple, blog-aware static website generator - the world's most popular website compiler - publish blogs, books, radio talk show, talk slides and much more_
+_Simple, blog-aware static website generator - the world's most popular website compiler - publish blogs, books, radio talk shows, talk slides and much more_
 
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))

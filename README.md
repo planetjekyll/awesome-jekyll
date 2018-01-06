@@ -8,7 +8,7 @@ Awesome Series @ Planet Jekyll
 
 # Awesome Jekyll
 
-A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
+A collection of awesome Jekyll goodies (tools, templates, themes, plugins, guides, etc.)
 
 **Contributions welcome. Anything missing? Send in a pull request. Thanks.**
 
@@ -16,7 +16,8 @@ A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 
 ## Jekyll Headquarters (HQ)
 
-_Simple, blog-aware static site generator_
+_Simple, blog-aware static website generator - the world's most popular website compiler - publish blogs, books, radio talk show, talk slides and much more_
+
 
 - **Jekyll** (web: [jekyllrb.com](http://jekyllrb.com), github: [jekyll](https://github.com/jekyll), gem: [jekyll](https://rubygems.org/gems/jekyll))
    - [Official News & Updates](http://jekyllrb.com/news) - what's news?
@@ -29,7 +30,7 @@ _Simple, blog-aware static site generator_
 
 ## News
 
-- **Static Times** (twitter: [statictimes](https://twitter.com/statictimes), github: [statictimes](https://github.com/statictimes)) -- For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@statictimes](https://twitter.com/statictimes) on Twitter
+- **Awesome Jekyll** (twitter: [awesomejekyll](https://twitter.com/awesomejekyll)) -- For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@awesomejekyll](https://twitter.com/awesomejekyll) on Twitter
 
 - **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 

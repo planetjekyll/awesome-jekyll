@@ -222,7 +222,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 - `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - A Jekyll Progressive Web App yeoman generator.
-- [Generator Jekyll Plugin](https://github.com/jamrizzi/generator-jekyll-plugin) - 💎 Yeoman generator for jekyll plugins
+- [Generator Jekyll Plugin](https://github.com/jamrizzi/generator-jekyll-plugin) by [Jam Risser](https://jam.jamrizzi.com) - 💎 Yeoman generator for jekyll plugins
 
 
 ## "Visual" Editors n Tools

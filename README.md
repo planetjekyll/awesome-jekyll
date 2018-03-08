@@ -51,7 +51,7 @@ _The world's greatest static websites_
 
 - **Jekyll Quick Reference (Cheat Sheet) @ Planet Jekyll** (github: [planetjekyll/quickrefs/JEKYLL.md](https://github.com/planetjekyll/quickrefs/blob/master/JEKYLL.md))
 - **Jekyll Cheat Sheet @ Jekyll Tips** (web: [cheat.jekyll.tips](http://cheat.jekyll.tips))
-- **Jekyll Cheat Sheet @ Devhints.io** (web: [devhints.io/jekyll](https://devhints.io/jekyll), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/gh-pages/jekyll.md)) - by Rico Sta. Cruz
+- **Jekyll Cheat Sheet @ Devhints.io** (web: [devhints.io/jekyll](https://devhints.io/jekyll), github: [rstacruz/cheatsheets/jekyll.md](https://github.com/rstacruz/cheatsheets/blob/master/jekyll.md)) - by Rico Sta. Cruz
 
 
 ## Books
@@ -73,9 +73,9 @@ Online - World Wide - Intertubes
 
 ## Articles
 
-**Jekyll Tips** (web: [jekyll.tips](http://jekyll.tips), github: [CloudCannon/Jekyll-Tips](https://github.com/CloudCannon/Jekyll-Tips))
+**Jekyll Tips** (web: [CloudCannon Academy _(formally known as jekyll.tips)_](https://learn.cloudcannon.com/), github: [CloudCannon/Academy](https://github.com/CloudCannon/Academy))
 
-- [Getting Started Guide](http://jekyll.tips)
+- [Getting Started Guide](https://learn.cloudcannon.com/)
 - And many more
 
 **Various**
@@ -83,7 +83,8 @@ Online - World Wide - Intertubes
 - [CloudCanon CMS for Jekyll: Building a Multilingual Site](https://snipcart.com/blog/cms-jekyll-cloud-cannon-multilingual) by Jean-Sebastien Tremblay; Snipcart; Sep 2017
 - [Achieving 100 / 100 on Google PageSpeed Insights (using Jekyll)](https://www.smartiehastheanswer.co.uk/achieving-100-out-of-100-on-google-pagespeed-insights-using-jekyll.html) by Andy Smart; March 2016
 - [Goodbye Medium, Hello Jekyll](http://intersect.whitefusion.io/open-web/goodbye-medium-hello-jekyll) by Jared White; March 2016
-- [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016) by Michael Rose; 2016
+- [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016) by Michael Rose; February 2016
+- [How I'm Using Jekyll in 2017](https://mademistakes.com/articles/using-jekyll-2017) by Michael Rose; August 2017
 - [How to Create an Open Source Directory on GitHub Pages](http://webdesign.tutsplus.com/tutorials/how-to-create-an-open-source-directory-on-github-pages--cms-26225) by David Darnes; March 2016
 - [Why I left Blogger for Jekyll](https://era86.github.io/2016/03/26/why-i-left-blogger-for-jekyll.html) by Fred; March 2016
 - [Consider Jekyll: why I use Jekyll to publish on the web and why you might be interested](https://olivermak.es/2016/03/consider-jekyll) by Oliver Pattison; March 2016
@@ -117,7 +118,7 @@ Online - World Wide - Intertubes
 
 ## Screencasts
 
-- [**Jekyll Casts**](http://jekyll.tips/jekyll-casts) by Mike Neumegen (CloudCannon); FREE
+- [**Jekyll Casts**](https://learn.cloudcannon.com/) by Mike Neumegen (CloudCannon); FREE
   - #1 - Introduction to Collections -- Learn how to use collections to manage and organize related content
   - #2 - Front matter -- Use front matter to set variables on your page
   - #3 - Layouts -- Use Jekyll layouts to reduce repetition on your site
@@ -153,7 +154,7 @@ More:
 - **drj / drjekyll** (github: [drjekyllthemes/drjekyll](https://github.com/drjekyllthemes/drjekyll), gem: [drjekyll](https://rubygems.org/gems/drjekyll)) -- the missing static site theme package manager
 - **mrh / mrhyde** (github: [mrhydescripts/mrhyde](https://github.com/mrhydescripts/mrhyde), gem: [mrhyde-tools](https://rubygems.org/gems/mrhyde-tools)) -- static site quick starter script wizard
   - [mrhyde wizard scripts](https://github.com/mrhydescripts/scripts) -- automate, automate, automate
-- **slush gh-pages / GitHub Pages Generator** (github: [ronik-design/slush-gh-pages](https://github.com/ronik-design/slush-gh-pages), npm: [slush-gh-pages](https://npmsjs.com/slush-gh-pages)) -- boilerplate wizard with CSS framework selection and extensive Node.js-based tooling. Specifically intended for use with GitHub Pages.
+- **slush gh-pages / GitHub Pages Generator** (github: [ronik-design/slush-gh-pages](https://github.com/ronik-design/slush-gh-pages), npm: [slush-gh-pages](https://npmjs.com/slush-gh-pages)) -- boilerplate wizard with CSS framework selection and extensive Node.js-based tooling. Specifically intended for use with GitHub Pages.
 
 
 ## Applications
@@ -172,14 +173,14 @@ See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-pl
 ## Snippets / Recipes
 
 - [**Jekyll Snippets @ Planet Jekyll**](http://planetjekyll.github.io/snippets) (github:  [planetjekyll/snippets](https://github.com/planetjekyll/snippets))
-- [**Jekyll Snippets Page @ Jekyll Tips**](http://jekyll.tips/tutorials/snippets)
+- [**Jekyll Snippets/CheatSheet Page @ CloudCannon Academy _(formally Jekyll Tips)_**](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 
 
 ## Tips / Tricks
 
 **Articles**
 
-- [Jekyll and AngularJS](https://jesse.codes/blog/Jekyll-Angular) by Jesse Herrick; May 2015
+- [Jekyll and AngularJS](https://github.com/JesseHerrick/jekyll-angular) by Jesse Herrick; May 2015
 
 
 ## Liquid Template Language
@@ -218,7 +219,7 @@ See the **Awesome Markdown List @ Write Kit** (github: [writekit/awesome-markdow
 
 ## Command Line Tools
 
-- [`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface
+- ~~[`jcli.sh`](http://www.skrauth.de/blog/2015/jekyll-bash-ui) (github: [StefanKrauth/shell-scripts/jcli.sh](https://github.com/StefanKrauth/shell-scripts/blob/master/jcli.sh)) by Stefan Krauth - Jekyll Bash Command Line Interface~~
 - `jbh.sh` (github: [alanbarber/jbh](https://github.com/alanbarber/jbh)) by Alan Barber - Jekyll Blog Helper
 - [`jtasks`](http://pavdmyt.com/simplifying-extending-jekyll-cli-with-jtasks/) (github: [pavdmyt/jtasks](https://github.com/pavdmyt/jtasks)) by Pavel Dmytrenko - simple, but powerful, interface to run both common and advanced routines in Jekyll projects
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) - A Jekyll Progressive Web App yeoman generator.

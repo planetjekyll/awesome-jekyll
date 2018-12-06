@@ -28,9 +28,10 @@ _Simple, blog-aware static website generator - the world's most popular website 
    - [Official Talk Forum](https://talk.jekyllrb.com) - discuss all things Jekyll
 
 
+
 ## News
 
-- **Awesome Jekyll** (twitter: [awesomejekyll](https://twitter.com/awesomejekyll)) -- For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@awesomejekyll](https://twitter.com/awesomejekyll) on Twitter
+- **Planet Jekyll** (twitter: [planetjekyll](https://twitter.com/planetjekyll)) -- For news about Jekyll 'n' friends (e.g. new themes, new plugins, new conferences 'n' meetups, etc.) follow [@planetjekyll](https://twitter.com/planetjekyll) on Twitter
 
 - **Jekyll Weekly Newsletter** (web: [jekyllweekly.com](http://jekyllweekly.com), github: [jekyllweekly](https://github.com/jekyllweekly)) by Brad West   
 

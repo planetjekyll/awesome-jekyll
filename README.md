@@ -250,6 +250,7 @@ _Jekyll's Ferrari - obsessively designed toolkit for writing and deploying jekyl
     - Optional step 4: exclude transfer.sh from being copied to the output folder by Jekyll
 - [Deploy Jekyll sites to S3 using Travis CI](http://cloudcannon.com/tutorial/2016/01/21/deploy-jekyll-sites-to-s3-using-travis-ci/)
 - [Deploy Jekyll sites anywhere using jekyll-hook](http://cloudcannon.com/tutorial/2016/01/26/deploy-jekyll-sites-anywhere-with-jekyll-hook/)
+- [Building and publishing a Jekyll site using Buddy CI/CD](https://buddy.works/docs/quickstart/jekyll)
 
 
 ## GitHub Pages Headquarters (HQ)

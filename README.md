@@ -97,6 +97,8 @@ Online - World Wide - Intertubes
 - [A Fast Blogging Solution: Building a Simple Jekyll Blog](https://blog.engineyard.com/2015/fast-blogging-solution-building-simple-jekyll-blog) by PJ Hagerty; EngineYard Inc.; Feb 2015
 - [Building Static Sites with Jekyll](http://code.tutsplus.com/articles/building-static-sites-with-jekyll--net-22211)  by Andrew Burgess; tuts+; Oct 2011
 - [Using Jekyll and GitHub Pages for Our Site](http://www.developmentseed.org/blog/2011/09/09/jekyll-github-pages/) by Young Hahn; Development Seed; Sep 2011
+- [Making Jekyll
+multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/) by @sylvaindurand, Oct 2016
 
 
 **SitePoint**

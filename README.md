@@ -172,6 +172,7 @@ More:
 
 See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)) ».
 
+- [**Jekyll::NewsSitemap**](https://github.com/skatkov/jekyll-news-sitemap) ★2 (gem: [jekyll-news-sitemap](https://rubygems.org/gems/jekyll-news-sitemap)) -- Jekyll plugin to silently generate Google News Sitemap based on posts.
 
 ## Snippets / Recipes
 

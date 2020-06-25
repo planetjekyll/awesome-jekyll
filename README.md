@@ -262,7 +262,7 @@ _Websites for you and your projects_
 
 - **GitHub Pages** (web: [pages.github.com](https://pages.github.com), github: [github/pages-gem](https://github.com/github/pages-gem), gem: [github-pages](https://rubygems.org/gems/github-pages))
     - [Dependency Versions](https://pages.github.com/versions) ([`version.json`](https://pages.github.com/versions.json)) - shows current versions (e.g. jekyll, liquid, kramdown, etc.) in use for GitHub Pages
-- [GitHub Pages Starter Pack: Extended Resources](https://infominer.id/web-work/github-pages-starter-pack/)
+- [GitHub Pages Starter Pack: Extended Resources](https://web-work.tools/jamstack/github-pages-starter-pack/)
 
 **Official Doc / Help Pages**
 

@@ -172,7 +172,7 @@ More:
 
 See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins)) ».
 
-- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★90 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
+- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★158 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
 - [**Jekyll::NewsSitemap**](https://github.com/skatkov/jekyll-news-sitemap) ★2 (gem: [jekyll-news-sitemap](https://rubygems.org/gems/jekyll-news-sitemap)) -- Jekyll plugin to silently generate Google News Sitemap based on posts.
 
 ## Snippets / Recipes

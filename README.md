@@ -166,6 +166,7 @@ More:
   - [Q&A w/ Tim Wisniewski](http://usopendata.org/2016/03/28/jkan) (U.S. Open Data); March 2016
 
 - **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency part of General Services Administration);  a web app for publishing static government websites (w/ Jekyll)
+- [YAMLToolbox](https://yamltoolbox.com) — Free, browser-based YAML converters, validator & formatter. 100% client-side (no upload, no sign-up). Handy front matter validator & formatter for Jekyll.
 
 
 ## Plugins / Extensions

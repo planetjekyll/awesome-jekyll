@@ -167,6 +167,7 @@ More:
 
 - **Federalist** (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency part of General Services Administration);  a web app for publishing static government websites (w/ Jekyll)
 - [YAMLToolbox](https://yamltoolbox.com) — Free, browser-based YAML converters, validator & formatter. 100% client-side (no upload, no sign-up). Handy front matter validator & formatter for Jekyll.
+- [ogmake](https://ogmake.com) — OG image API: a per-post `og:image` from one Liquid include, no plugin or build step, so it works on GitHub Pages. Free plan: 100 renders per month. [Jekyll guide](https://ogmake.com/docs/jekyll).
 
 
 ## Plugins / Extensions

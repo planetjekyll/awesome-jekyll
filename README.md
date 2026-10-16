@@ -179,6 +179,7 @@ See the **Awesome Jekyll Plugins List** (github: [planetjekyll/awesome-jekyll-pl
 
 ## Snippets / Recipes
 
+- [**Google Scholar for GitHub Pages**](https://github.com/cmccomb/google-scholar-for-github-pages) -- Render an exported Google Scholar CSV as a filterable publication list with one Liquid include; works on GitHub Pages without a plugin.
 - [**Jekyll Snippets @ Planet Jekyll**](http://planetjekyll.github.io/snippets) (github:  [planetjekyll/snippets](https://github.com/planetjekyll/snippets))
 - [**Jekyll Snippets/CheatSheet Page @ CloudCannon Academy _(formally Jekyll Tips)_**](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 

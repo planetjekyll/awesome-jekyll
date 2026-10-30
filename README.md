@@ -151,6 +151,7 @@ More:
 - [**The Zen of Page Designs**](https://github.com/pagedesigns) -- One Page, Many Designs
 - [**Slide Show (S9) Templates**](https://github.com/slideshow-templates) -- Slide Show / Presentation Templates e.g. S6 Blank, deck.js, impress.js, etc.
 - [**Academic Website Template**](https://github.com/sbryngelson/academic-website-template) -- Jekyll site for academics and research groups: publications from BibTeX, team and alumni pages from YAML, dark mode, no third-party requests; deploys to GitHub Pages.
+- [**Massively**](https://github.com/jekyllup/jekyll-theme-massively) -- Jekyll port of the HTML5 UP Massively theme: a blog with a full-screen intro and a featured post.
 
 
 ## Theme Package Manager and Wizards
